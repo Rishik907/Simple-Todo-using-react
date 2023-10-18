@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.container {
+  padding: 30px;
+  background-color: #ffc2a0;
+  min-height: 100vh;
+}
+
+.card {
+  background-color: white;
+  border-radius: 25px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #ff8542;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.list-container {
+  list-style: none;
+  width: 100%;
+}

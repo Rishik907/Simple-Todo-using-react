@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.list-of-list-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.para {
+  margin-right: 20px;
+}
+
+.button-val {
+  justify-content: flex-end;
+  background-color: transparent;
+  color: #ff0b37;
+  border: 1px solid #ff0b37;
+  border-radius: 7px;
+  padding: 5px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  width: 75px;
+  cursor: pointer;
+  outline: none;
+}
